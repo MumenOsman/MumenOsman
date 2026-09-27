@@ -6,12 +6,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="28" />
-
-<br />
-
-**Domain**  
-`Full Stack / UX/UI/XR`
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="32" />
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite, Tailwind CSS, Three.js / WebGL
 - **Backend & Systems:** Node.js, Express, Golang, PostgreSQL, MongoDB, C#, C
@@ -20,9 +15,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="28" />
-
-<br />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="32" />
 
 Shipped web applications and spatial interfaces used by a global audience.
 
@@ -34,9 +27,7 @@ Shipped web applications and spatial interfaces used by a global audience.
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="28" />
-
-<br />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="32" />
 
 The personal standards and core rules that guide how I design and build.
 
