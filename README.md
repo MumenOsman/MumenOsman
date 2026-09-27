@@ -6,7 +6,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="20" />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="28" />
 
 <br />
 
@@ -20,7 +20,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="20" />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="28" />
 
 <br />
 
@@ -34,7 +34,7 @@ Shipped web applications and spatial interfaces used by a global audience.
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="20" />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="28" />
 
 <br />
 
