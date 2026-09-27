@@ -1,6 +1,4 @@
-<a href="#product-engineer" id="product-engineer">
-  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/title.svg" alt="PRODUCT ENGINEER" height="38" />
-</a>
+$\LARGE\color{#FF4500}\textsf{\textbf{PRODUCT ENGINEER}}$
 
 Specializing in full stack web engineering, end-to-end UX/UI, and high-performance interactive systems from concept to production. Operating at the intersection of robust web architectures, responsive frontend systems, and hardware-inspired digital experiences.
 
@@ -12,9 +10,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<a href="#tools" id="tools">
-  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="32" />
-</a>
+$\large\color{#7DAEA3}\textsf{\textbf{TOOLS}}$
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite, Tailwind CSS, Three.js / WebGL
 - **Backend & Systems:** Node.js, Express, Golang, PostgreSQL, MongoDB, C#, C
@@ -23,9 +19,7 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<a href="#impact" id="impact">
-  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="32" />
-</a>
+$\large\color{#7DAEA3}\textsf{\textbf{IMPACT}}$
 
 Shipped web applications and spatial interfaces used by a global audience.
 
@@ -37,9 +31,7 @@ Shipped web applications and spatial interfaces used by a global audience.
 
 ---
 
-<a href="#principles" id="principles">
-  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="32" />
-</a>
+$\large\color{#7DAEA3}\textsf{\textbf{PRINCIPLES}}$
 
 The personal standards and core rules that guide how I design and build.
 
