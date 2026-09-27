@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/title.svg" alt="PRODUCT ENGINEER" height="38" />
+<a href="#_">
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/title.svg" alt="PRODUCT ENGINEER" height="38" />
+</a>
 
 Specializing in full stack web engineering, end-to-end UX/UI, and high-performance interactive systems from concept to production. Operating at the intersection of robust web architectures, responsive frontend systems, and hardware-inspired digital experiences.
 
@@ -10,7 +12,9 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="32" />
+<a href="#_">
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="32" />
+</a>
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Vite, Tailwind CSS, Three.js / WebGL
 - **Backend & Systems:** Node.js, Express, Golang, PostgreSQL, MongoDB, C#, C
@@ -19,7 +23,9 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="32" />
+<a href="#_">
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="32" />
+</a>
 
 Shipped web applications and spatial interfaces used by a global audience.
 
@@ -31,7 +37,9 @@ Shipped web applications and spatial interfaces used by a global audience.
 
 ---
 
-<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="32" />
+<a href="#_">
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="32" />
+</a>
 
 The personal standards and core rules that guide how I design and build.
 
