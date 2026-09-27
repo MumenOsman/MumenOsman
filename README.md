@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER (Animated Industrial Telemetry Chassis) -->
 <a href="https://github.com/MumenOsman">
-  <img src="./assets/header-banner.svg" alt="Mumen Osman // Product Engineer - Industrial Profile Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/header-banner.svg" alt="Mumen Osman // Product Engineer - Industrial Profile Header" width="100%" />
 </a>
 
 <br />
@@ -13,7 +13,7 @@ SYSTEM: ONLINE  |  ROLE: PRODUCT ENGINEER  |  DOMAIN: FULL STACK / UX/UI/XR  |  
 ```
 
 <!-- DYNAMIC TERMINAL TELEMETRY (Animated CLI Simulation) -->
-<img src="./assets/terminal-telemetry.svg" alt="System Shell & Archival Telemetry" width="100%" />
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/terminal-telemetry.svg" alt="System Shell & Archival Telemetry" width="100%" />
 
 </div>
 
@@ -46,7 +46,7 @@ An archival index of shipped web applications, emergency systems, AI architectur
 Modular hardware matrix detailing full-stack technologies, spatial tooling, and infrastructure.
 
 <div align="center">
-  <img src="./assets/tech-matrix.svg" alt="Capabilities & Technical Domain Matrix" width="100%" />
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/tech-matrix.svg" alt="Capabilities & Technical Domain Matrix" width="100%" />
 </div>
 
 <br />
@@ -58,7 +58,7 @@ Modular hardware matrix detailing full-stack technologies, spatial tooling, and 
 Measurable track record across shipped web systems, spatial computing environments, and community components.
 
 <div align="center">
-  <img src="./assets/stats-panel.svg" alt="Audited Impact Telemetry" width="100%" />
+  <img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/stats-panel.svg" alt="Audited Impact Telemetry" width="100%" />
 </div>
 
 <br />
