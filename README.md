@@ -6,7 +6,9 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-### // TOOLS
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-tools.svg" alt="TOOLS" height="20" />
+
+<br />
 
 **Domain**  
 `Full Stack / UX/UI/XR`
@@ -18,7 +20,9 @@ Specializing in full stack web engineering, end-to-end UX/UI, and high-performan
 
 ---
 
-### // IMPACT
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-impact.svg" alt="IMPACT" height="20" />
+
+<br />
 
 Shipped web applications and spatial interfaces used by a global audience.
 
@@ -30,7 +34,9 @@ Shipped web applications and spatial interfaces used by a global audience.
 
 ---
 
-### // PRINCIPLES
+<img src="https://raw.githubusercontent.com/MumenOsman/MumenOsman/main/assets/section-principles.svg" alt="PRINCIPLES" height="20" />
+
+<br />
 
 The personal standards and core rules that guide how I design and build.
 
