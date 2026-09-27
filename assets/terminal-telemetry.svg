@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
+
+      .bg-term { fill: #0B0E14; stroke: #30363D; stroke-width: 1; }
+      .bg-term-bar { fill: #161B22; }
+      
+      .font-mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Monaco, Consolas, monospace; }
+
+      .cmd-prompt { font-size: 13px; font-weight: 700; fill: #FF4500; }
+      .cmd-text { font-size: 13px; font-weight: 500; fill: #F0F6FC; }
+      .cmd-output { font-size: 12px; font-weight: 400; fill: #8B949E; }
+      .cmd-highlight { font-weight: 600; fill: #58A6FF; }
+      .cmd-accent { font-weight: 700; fill: #3FB950; }
+
+      /* Blinking and typing animations */
+      @keyframes blink-cursor {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes line-reveal-1 {
+        0%, 10% { opacity: 0; transform: translateY(4px); }
+        15%, 100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes line-reveal-2 {
+        0%, 30% { opacity: 0; transform: translateY(4px); }
+        35%, 100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes line-reveal-3 {
+        0%, 55% { opacity: 0; transform: translateY(4px); }
+        60%, 100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes line-reveal-4 {
+        0%, 80% { opacity: 0; transform: translateY(4px); }
+        85%, 100% { opacity: 1; transform: translateY(0); }
+      }
+
+      .cursor { animation: blink-cursor 0.9s infinite step-start; }
+      .ln-1 { animation: line-reveal-1 8s infinite ease-out; }
+      .ln-2 { animation: line-reveal-2 8s infinite ease-out; }
+      .ln-3 { animation: line-reveal-3 8s infinite ease-out; }
+      .ln-4 { animation: line-reveal-4 8s infinite ease-out; }
+    </style>
+  </defs>
+
+  <!-- Shell Window Frame -->
+  <rect x="0.5" y="0.5" width="879" height="229" rx="6" class="bg-term" />
+
+  <!-- Shell Window Header -->
+  <rect x="1" y="1" width="878" height="30" rx="6" class="bg-term-bar" />
+  <rect x="1" y="24" width="878" height="7" fill="#161B22" />
+  <line x1="1" y1="31" x2="879" y2="31" stroke="#30363D" stroke-width="1" />
+
+  <!-- Terminal Window Buttons (Minimal Monochrome Indicators) -->
+  <g transform="translate(16, 12)">
+    <circle cx="6" cy="4" r="4.5" fill="#484F58" />
+    <circle cx="22" cy="4" r="4.5" fill="#484F58" />
+    <circle cx="38" cy="4" r="4.5" fill="#FF4500" />
+  </g>
+
+  <!-- Terminal Title Bar -->
+  <text x="440" y="20" text-anchor="middle" class="font-mono" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="0.08em">MM-SHELL // LIVE ARCHIVAL TELEMETRY</text>
+  <text x="860" y="20" text-anchor="end" class="font-mono" font-size="10" font-weight="600" fill="#6E7681">TTY / 01</text>
+
+  <!-- Terminal Output Lines -->
+
+  <!-- Command 1 -->
+  <g transform="translate(24, 60)" class="ln-1">
+    <text x="0" y="0" class="font-mono">
+      <tspan class="cmd-prompt">motazin@core:~#</tspan>
+      <tspan class="cmd-text"> mumen --profile</tspan>
+    </text>
+    <text x="16" y="20" class="font-mono cmd-output">
+      &gt; Role: <tspan class="cmd-highlight">Product Engineer</tspan> | Domain: <tspan class="cmd-highlight">Full Stack / UX/UI/XR</tspan> | Paradigm: <tspan fill="#F0F6FC">Dieter Rams / Essentialist</tspan>
+    </text>
+  </g>
+
+  <!-- Command 2 -->
+  <g transform="translate(24, 106)" class="ln-2">
+    <text x="0" y="0" class="font-mono">
+      <tspan class="cmd-prompt">motazin@core:~#</tspan>
+      <tspan class="cmd-text"> mumen --telemetry</tspan>
+    </text>
+    <text x="16" y="20" class="font-mono cmd-output">
+      &gt; Sessions: <tspan class="cmd-highlight">100K+</tspan> | Live Deployments: <tspan class="cmd-highlight">10+ Production</tspan> | Community Stars &amp; Saves: <tspan class="cmd-highlight">5K+</tspan>
+    </text>
+  </g>
+
+  <!-- Command 3 -->
+  <g transform="translate(24, 152)" class="ln-3">
+    <text x="0" y="0" class="font-mono">
+      <tspan class="cmd-prompt">motazin@core:~#</tspan>
+      <tspan class="cmd-text"> mumen --principles</tspan>
+    </text>
+    <text x="16" y="20" class="font-mono cmd-output">
+      &gt; [01] <tspan fill="#F0F6FC">Existential Purpose</tspan>  //  [02] <tspan fill="#F0F6FC">Frontload Clarity</tspan>  //  [03] <tspan fill="#F0F6FC">Zero Compromise</tspan>
+    </text>
+  </g>
+
+  <!-- Command 4 / Active Prompt -->
+  <g transform="translate(24, 198)" class="ln-4">
+    <text x="0" y="0" class="font-mono">
+      <tspan class="cmd-prompt">motazin@core:~#</tspan>
+      <tspan class="cmd-text"> mumen --dispatch-status</tspan>
+    </text>
+    <text x="248" y="0" class="font-mono cmd-accent">&gt; ACTIVE // READY</text>
+    <!-- Blinking Block Cursor -->
+    <rect x="390" y="-12" width="8" height="15" fill="#FF4500" class="cursor" />
+  </g>
+</svg>
